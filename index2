@@ -7,6 +7,10 @@
 <body>
 	<h1>test2</h1>
 	<h3>test0</h3>
+<<<<<<< HEAD
 	<b>Hello new branch</b>>
+=======
+	<b>branch master2</b>
+>>>>>>> master
 </body>
 </html>
